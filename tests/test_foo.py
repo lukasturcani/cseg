@@ -1,5 +1,5 @@
-import millie
+import cseg
 
 
 def test_foo() -> None:
-    assert millie.foo(12) == "Hello, World! Also: 12"
+    assert cseg.foo(12) == "Hello, World! Also: 12"
